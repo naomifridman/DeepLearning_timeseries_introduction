@@ -1,12 +1,14 @@
 
-# RNN under the hood
+# DataNights lecture - Introduction to Deep Learning on Time series
+## RNN under the hood
   Introduction to RNN basic ideas.
 
-# LSTM
+## LSTM
 
-# CNN + RNN
+## CNN + RNN
 
-# Example - LSTM-Autoencoder-for-Anomaly-Detection
+## Examples 
+  ### LSTM-Autoencoder-for-Anomaly-Detection
   AI deep learning neural network for anomaly detection using Python, Keras and TensorFlow
   Based on https://github.com/BLarzalere/LSTM-Autoencoder-for-Anomaly-Detection
   
